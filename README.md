@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsamba
 - 👀 I’m interested in ... Open source contribution
-- 🌱 I’m currently learning ... Financial API Infrastructure and Business data internet
+- 🌱 I’m currently learning ... Fast API
 - 💞️ I’m looking to collaborate on ... good idea fuel open source development
 - 📫 How to reach me ... getsamba@hotmail.com
 
