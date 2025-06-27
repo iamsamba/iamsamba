@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsamba
 - 👀 I’m interested in ... Open source contribution
-- 🌱 I’m currently building on ... Fast API, Go
+- 🌱 I’m currently building on ... Go
 - 💞️ I’m looking to collaborate on ... good idea fuel open source development
 - 📫 How to reach me ... getsamba@hotmail.com
 
